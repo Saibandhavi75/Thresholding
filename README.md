@@ -77,18 +77,27 @@ for i in range(0,9):
 
 ### Original Image
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex91.png?raw=true)
+
 ### Global Thresholding
+
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex92.png?raw=true)
+
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex93.png?raw=true)
+
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex94.png?raw=true)
+
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex95.png?raw=true)
+
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex96.png?raw=true)
 
 ### Adaptive Thresholding
+
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex97.png?raw=true)
+
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex98.png?raw=true)
 
 ### Optimum Global Thesholding using Otsu's Method
+
 ![output](https://github.com/Saibandhavi75/Thresholding/blob/main/ex99.png?raw=true)
 
 ## Result
