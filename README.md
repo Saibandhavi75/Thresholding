@@ -27,6 +27,8 @@ Use Otsu's method to segment the image.
 Display the results.
 ## Program
 ```
+Developed By:Aruru.Sai Bandhavi
+Register Number:21221240006
 
 ```
 
